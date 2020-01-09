@@ -1,2 +1,2 @@
-# About-Animals
+# About Animals
 My thoughts on animals
